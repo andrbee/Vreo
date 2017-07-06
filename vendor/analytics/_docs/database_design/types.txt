@@ -1,0 +1,22 @@
+type_media
+ - id
+ - name (image, video, sound)
+
+type_media_format
+ - id
+ - type_media_id
+ - type_media_format_duration_id (null for images)
+ - aspect_ratio (width divided by height) (null for sounds)
+
+type_media_format_duration
+ - id
+ - duration_seconds_min
+ - duration_seconds_max
+
+type_game_genre
+ - id
+ - name (action, horror, etc)
+
+type_age_restriction
+ - id
+ - minimum age

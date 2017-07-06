@@ -1,0 +1,18 @@
+{
+  "Healthcare": [{"upper": "#5f94b3"},{"lower": "#52839f"}],
+  "Toys": [{"upper": "#cdce58"},{"lower": "#b0b14a"}],
+  "Technology": [{"upper": "#33b5ff"},{"lower": "#2ea1e3"}],
+  "Entertainment": [{"upper": "#eb4f80"},{"lower": "#d44773"}],
+  "Sports": [{"upper": "#9f5907"},{"lower": "#6f3e05"}],
+  "Tourism": [{"upper": "#0c2672"},{"lower": "#091d58"}],
+  "Automotive": [{"upper": "#957b83"},{"lower": "#756368"}],
+  "Food": [{"upper": "#28ad1a"},{"lower": "#239616"}],
+  "Gaming": [{"upper": "#3ad5d0"},{"lower": "#32b7b3"}],
+  "Beauty": [{"upper": "#c83ad5"},{"lower": "#b534c1"}],
+  "Beverage": [{"upper": "#dc6666"},{"lower": "#c45b5b"}],
+  "Clothing": [{"upper": "#d0d53a"},{"lower": "#adb12f"}],
+  "Finance": [{"upper": "#3ab2d5"},{"lower": "#37a4c4"}],
+  "Web business": [{"upper": "#e0e720"},{"lower": "#cbd11c"}],
+  "Music": [{"upper": "#589348"},{"lower": "#4b7e3d"}],
+  "Movies / TV": [{"upper": "#d5993a"},{"lower": "#c38c36"}]
+}

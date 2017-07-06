@@ -1,0 +1,16 @@
+{
+  "Action": "#E3000E",
+  "Adventure": "#2CC990",
+  "Casual": "#D6CA8B",
+  "Genre Mix": "#E76B6B",
+  "Jump'n'run": "#71BA51",
+  "RTS": "#59A9C2",
+  "Shooter": "#8A2D3C",
+  "Simulation": "#3D8EB9",
+  "Sports": "#8870FF",
+  "Strategy": "#42729B",
+  "Survival": "#25373D",
+  "Puzzle": "#EB9532",
+  "Horror": "#563D28",
+  "Educational": "#47D2E9"
+}

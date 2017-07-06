@@ -1,0 +1,7 @@
+admin
+ - id
+ - username
+ - password_hash
+ - login_token
+ - can_edit_admins
+ - can_edit_system

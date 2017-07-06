@@ -1,0 +1,820 @@
+#wp_rar_user_role-error {
+    position: absolute;
+    /*bottom: 150%;*/
+    display: inline-block;
+    bottom: -38px;
+    left: 0;
+    /*width: 146%;*/
+}
+.form-wizard .progress {
+    margin-bottom: 20px;
+}
+
+.form-horizontal .control-label {
+    text-align: center;
+}
+
+.user-login-5 .login-container > .login-content.normal-registration {
+    margin-top: 13%;
+}
+.user-login-5 .login-container > .login-content.normal-registration .col-md-12 {
+    margin-top: 40px;
+}
+
+.form-group.form-md-line-input {
+    margin: 0 0 15px;
+    padding-top: 0px;
+}
+
+.exp-reg-description {
+    margin-bottom: 10px;
+}
+
+.user-login-5 .login-container > .login-content.express-registration {
+    margin-top: 25%;
+    margin-bottom: 80px;
+}
+.user-login-5 .login-container > .login-content.express-registration > .col-md-9 {
+    margin-bottom: 30px;
+}
+
+.registration-button {
+    margin: 0 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #4e5a64;
+}
+
+.user-login-5 {
+    min-height: 100vh
+}
+
+.user-login-5 .bs-reset {
+    margin: 0;
+    padding: 0;
+   
+}
+
+.user-login-5 .text-right {
+    text-align: right
+}
+
+.user-login-5 .login-bg {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh
+}
+
+.user-login-5 .login-logo {
+    position: absolute;
+    top: 2.5em;
+    left: 2.5em
+}
+
+.user-login-5 .login-logo.login-6 {
+    top: 40px;
+    left: 80px
+}
+
+.user-login-5 .login-container {
+    position: relative;
+    min-height: 100vh
+}
+
+.user-login-5 .login-container .login-copyright, .user-login-5 .login-container .login-social, .user-login-5 .login-container > .login-content {
+    padding: 0 80px
+}
+
+.user-login-5 .login-container > .login-content {
+    margin-top: 26%
+}
+
+.user-login-5 .login-container > .login-content > h1 {
+    font-size: 30px;
+    font-weight: 300;
+    color: #4e5a64
+}
+
+.user-login-5 .login-container > .login-content p {
+    color: #a0a9b4;
+    font-size: 15px;
+    line-height: 22px
+}
+
+.user-login-5 .login-container > .login-content > .login-form {
+    margin-top: 80px;
+    color: #a4aab2;
+    font-size: 13px
+}
+
+.user-login-5 .login-container > .login-content > .login-form .form-control {
+    width: 100%;
+    padding: 10px 0;
+    border: #a0a9b4;
+    border-bottom: 1px solid;
+    color: #868e97;
+    font-size: 14px;
+    margin-bottom: 30px;
+    border-radius: 0 !important
+}
+
+.user-login-5 .login-container > .login-content > .login-form .form-control:focus {
+    outline: 0
+}
+
+.user-login-5 .login-container > .login-content > .login-form .forgot-password, .user-login-5 .login-container > .login-content > .login-form .login-button {
+    display: inline-block
+}
+
+.user-login-5 .login-container > .login-content > .login-form .rem-password {
+    margin-top: 10px
+}
+
+.user-login-5 .login-container > .login-content > .login-form .rem-password > p {
+    margin: 0
+}
+
+.user-login-5 .login-container > .login-content > .login-form .rem-password > .rem-checkbox {
+    border-color: #a4aab2
+}
+
+.user-login-5 .login-container > .login-content > .login-form .forgot-password {
+    margin-right: 1em
+}
+
+.user-login-5 .login-container > .login-content > .login-form .forgot-password > a {
+    color: #a4aab2
+}
+
+.user-login-5 .login-container > .login-content > .login-form .forgot-password > a:hover {
+    color: #337ab7;
+    text-decoration: none
+}
+
+.user-login-5 .login-container > .login-content > .login-form .forgot-password > a:focus {
+    color: #a4aab2;
+    text-decoration: none
+}
+
+.user-login-5 .login-container > .login-footer {
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10px;
+    position: static;
+    margin-top: 20px;
+    position: absolute;
+}
+.user-login-5 .login-container > .login-footer > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-login-5 .login-container > .login-footer .login-social {
+    padding-right: 0
+}
+
+.user-login-5 .login-container > .login-footer .login-social li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 1em
+}
+
+.user-login-5 .login-container > .login-footer .login-social a {
+    color: #a9b5be;
+    font-size: 18px
+}
+
+.user-login-5 .login-container > .login-footer .login-social a:hover {
+    color: #337ab7;
+    text-decoration: none
+}
+
+.user-login-5 .login-container > .login-footer .login-social a:focus {
+    color: #a9b5be
+}
+
+.user-login-5 .login-container > .login-footer .login-copyright {
+    padding-left: 0;
+    margin-top: 6px
+}
+
+.user-login-5 .login-container > .login-footer .login-copyright > p {
+    margin: 0;
+    font-size: 13px;
+    color: #a9b5be
+}
+
+.user-login-5 .alert {
+    margin-top: -60px
+}
+
+.user-login-5 .form-group.has-error {
+    border-bottom: 2px solid #ed6b75 !important;
+    margin-top: 40px;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.portlet.light .form .form-actions {
+    margin-bottom: 30px;
+    /*margin-top: 97%;*/
+    border-top: 0;
+}
+
+#tab2 .col-md-6 {
+    height: 108px;
+}
+#tab2 .col-md-12,
+#tab3 .col-md-12 {
+    border-top: 1px solid #e7ecf1;
+    margin-top: 0;
+}
+#tab2 .col-md-12 >p,
+#tab3 .col-md-12 >p {
+    color: #a0a9b4;
+    font-size: 15px;
+    line-height: 22px;
+    padding-top: 15px;
+    margin-top: 0;
+}
+
+#tab2 .col-md-6 .has-error,
+#tab3 .col-md-6 .has-error {
+    padding-bottom: 30px;
+    margin-top: 0;
+}
+
+#tab2 .col-md-6 .has-error .help-block-error,
+#tab3 .col-md-6 .has-error .help-block-error{
+    position: absolute;
+    bottom: -93%;
+    display: inline-block;
+    /*width: 146%;*/
+    left: 0;
+    text-align: left;
+    font-size: 13px;
+}
+
+#tab3 .col-md-6 {
+    height: 108px;
+}
+
+#tab3 .col-md-6 .has-error {
+    padding-bottom: 30px;
+    margin-top: 0;
+}
+#tab3 input#verificationDoc2 {
+    margin: 10px 0;
+}
+
+/*#tab3 .col-md-6 .has-error .help-block-error {*/
+    /*position: absolute;*/
+    /*bottom: -93%;*/
+    /*display: inline-block;*/
+    /*width: 146%;*/
+    /*left: -7%;*/
+/*}*/
+#tab4 .form-group.has-error,
+#tab5 .form-group.has-error {
+    border-bottom: 0!important;
+}
+#tab5 .mt-checkbox {
+    margin-bottom: 18px;
+    padding-bottom: 0px;
+}
+#tab5 #checkboxAgree-error,
+#tab5 #checkboxNotification-error {
+    width: 100%;
+    border-bottom: 2px solid #ed6b75 !important;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    height: 20px;
+    top: 18px;
+    font-size: 13px;
+    margin-top: 0;
+}
+#tab5 #checkboxAgree-error.valid,
+#tab5 #checkboxNotification-error.valid {
+    display: none!important;
+}
+#tab5 .has-success .help-block {
+    color: #e73d4a;
+}
+
+.payment-selector:nth-child(2) label{
+    background-image: url(../img/Visa.png);
+    width:97px;
+    height:70px;
+}
+
+.payment-selector:nth-child(3) label{
+    background-image: url(../img/Amex.png);
+    width:98px;
+    height:69px;
+}
+
+.payment-selector:nth-child(4) label{
+    background-image: url(../img/Amazon.png);
+    width:98px;
+    height:69px;
+}
+
+.payment-selector:nth-child(5) label{
+    background-image: url(../img/PayPal.png);
+    width:98px;
+    height:69px;
+}
+
+.payment-selector:nth-child(6) label{
+    background-image: url(../img/Stripe.png);
+    width:98px;
+    height:69px;
+}
+
+.payment-selector label span{
+    display: none;
+}
+
+.payment-selector label:hover{
+    -webkit-filter: brightness(1.2);
+    -moz-filter: brightness(1.2);
+    filter: brightness(1.2);
+}
+
+.payment-selector label.disabled, .payment-selector input.disabled {
+    -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+    -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+    filter: brightness(1.2) grayscale(.5) opacity(.9);
+}
+
+.payment-selector input:active +.radio-payment {opacity: .9;}
+.payment-selector input:checked +.radio-payment {
+    -webkit-filter: none;
+    -moz-filter: none;
+    filter: none;
+}
+
+.radio-payment {
+    -webkit-transition: all 100ms ease-in;
+    -moz-transition: all 100ms ease-in;
+    transition: all 100ms ease-in;
+    -webkit-filter: brightness(1.8) grayscale(1) opacity(.7);
+    -moz-filter: brightness(1.8) grayscale(1) opacity(.7);
+    filter: brightness(1.8) grayscale(1) opacity(.7);
+}
+
+.role-registration {
+    border: 2px solid #D8DADE;
+    padding: 15px 30px;
+    cursor: pointer;
+    float: left;
+    width: 248px;
+}
+
+.role-registration:hover {
+    background-color: #2881BB;
+}
+
+.role-registration:hover .role-registration--desc >div, .role-registration:hover .role-registration--desc >span {
+    color: #fff;
+}
+
+.role-registration--desc {
+    text-align: center;
+    line-height: 1;
+}
+
+.role-registration--desc >div {
+    color: #55657E;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.role-registration--desc >span {
+    color: #CED1DA;
+    font-size: 10px;
+}
+
+.role-registration--choice {
+    font-size: 30px;
+    color: #55657E;
+    font-weight: 600;
+    float: left;
+    margin-right: 20px;
+    padding: 110px 0;
+}
+
+.role-registration label {
+    width: 155px;
+    height: 132px;
+    display: block;
+    margin: 0 auto;
+}
+
+.role-registration.active {
+    background-color: #2881BB;
+}
+
+.active > .role-registration--desc >div, .active > .role-registration--desc >span{
+    color: #fff;
+}
+
+.role-registration:nth-child(1) label{
+    background: url(../img/business_chars_1.png) no-repeat;
+    background-size: contain;
+}
+
+.role-registration:nth-child(3) label{
+    background: url(../img/marken.png) no-repeat;
+    background-size: contain;
+}
+
+.role-registration label span{
+    display: none;
+}
+
+.user-login-5 .form-group.valid {
+    border-bottom: 1px solid #a0a9b4 !important
+}
+
+#profileHeaderPic2, #profilePic2 {
+    background-color: #2B8F09;
+}
+
+.control-label {
+    font-weight: 600;
+    font-size: 16px;
+    color: #55657E;
+    text-align: center;
+}
+.fileinput-cover {
+    border-radius: 50%!important;
+    padding: 9px;
+    width: 150px!important;
+    height: 150px!important;
+    margin: 20px 0!important;
+}
+
+.form-profile-image,
+.form-header-image {
+    /*width: 31.66667%;*/
+    /*margin-right: 64px!important;*/
+    margin-top: 35px;
+     margin-left: 0!important;
+     margin-right: 0!important;
+}
+
+.form-header-image > .control-label {
+    max-width: none;
+}
+
+/*.form-header-image .btn-file, .form-profile-image .btn-file{*/
+    /*background-color: #2B8F09!important;*/
+    /*color: #fff!important;*/
+/*}*/
+.form-header-image .btn-file {
+    /*margin-bottom: -53px;*/
+}
+
+.fileinput-cover-header {
+    width: 300px!important;
+    height: 150px!important;
+    padding: 9px;
+    margin: 20px 0!important;
+}
+
+.fileinput-header-image {
+    background-color: #EFEFEF;
+    height:132px;
+}
+
+.fileinput-new.thumbnail {
+    border: 1px solid #EFEFEF;
+    border-radius: 50%;
+    width:120px;
+    height:120px;
+}
+.fileinput-image {
+    background-color: #EFEFEF;
+    border-radius: 50%!important;
+    width: 130px;
+    height: 130px;
+}
+
+
+.fileinput.fileinput-new p {
+    font-weight:500;
+}
+.image-desc {
+    text-transform: uppercase;
+    color: #CFCFCF;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 8.8;
+}
+.user-login-5 .login-container > .login-content .login-form .row:last-child div:first-child {
+        display: none;
+    }
+.user-login-5 .login-container > .login-content .login-form .row:nth-child(2) div:last-child {
+        display: block;
+    }
+    #wp-submit {
+        margin-top: 0;
+    }
+    #checkboxAgree-error,
+    #checkboxNotification-error {
+        width: 100%;
+        border-bottom: 2px solid #ed6b75 !important;
+        margin-top: 22px;
+        margin-bottom: 20px;
+        border-top:0;
+        border-left:0;
+        border-right:0;
+        height: 23px;
+        top: 6px;
+    }
+
+@media (min-width: 1600px) {
+     .user-login-5 > .bs-reset {
+     position: relative;
+    }
+
+    .user-login-5 > .bs-reset > .bs-reset:nth-child(2) {
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    .user-login-5 > .bs-reset > .bs-reset:nth-child(2) .login-bg {
+        height: 100%;
+    }
+}
+   
+@media (max-width: 1365px) {
+    .user-login-5 .login-logo.login-6 {
+        top: 40px;
+        left: 40px
+    }
+
+    .user-login-5 .login-container .login-copyright, .user-login-5 .login-container .login-social, .user-login-5 .login-container > .login-content {
+        padding: 0 40px
+    }
+
+    .user-login-5 .login-container .login-social {
+        padding-right: 0
+    }
+
+    .user-login-5 .login-container .login-copyright {
+        padding-left: 0
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .user-login-5 .login-container + .bs-reset {
+        display: none;
+    }
+    #tab2 .col-md-6 .has-error .help-block-error,
+    #tab3 .col-md-6 .has-error .help-block-error {
+        left: 0;
+        text-align: left;
+    }
+    #tab3 input#verificationDoc2 {
+        margin: 10px 0;
+    }
+    .form-header-image .btn-file {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 1023px) {
+    .login-container + .bs-reset {
+        display: none;
+    }
+    /*.user-login-5, .user-login-5 .login-bg, .user-login-5 .login-container {
+        min-height: 50vh
+    }*/
+
+    .user-login-5 .mt-login-5-bsfix {
+        width: 100%
+    }
+
+    .user-login-5 .login-logo.login-6 {
+        position: relative;
+        margin: 0 0 40px
+    }
+
+    .user-login-5 .login-container > .login-content {
+        margin-top: 60px
+    }
+
+    .user-login-5 .login-container > .login-content .login-form {
+        margin-top: 40px
+    }
+
+    .user-login-5 .login-container .rem-password {
+        margin-bottom: 1em
+    }
+    .user-login-5 .login-container > .login-content.normal-registration .col-md-12 {
+        margin-top: 20px;
+    }
+    .user-login-5 .login-container > .login-content.normal-registration {
+        margin-top: 0;
+    }
+
+    /*.user-login-5 .login-container > .login-footer {
+        position: relative;
+        margin-top: 40px;
+        padding-bottom: 0
+    }*/
+
+    .user-login-5 .login-container > .login-footer .login-social li {
+        margin-right: .5em
+    }
+
+    .user-login-5 .alert {
+        margin-top: -20px
+    }
+    .user-login-5 .login-container > .login-content.normal-registration .col-md-12 {
+        margin-top: 0;
+        margin-bottom: 35px;
+    }
+    /*#tab4 {*/
+        /*margin-bottom: 380px;*/
+    /*}*/
+}
+
+@media (max-width: 640px) {
+    .user-login-5 .login-container > .login-content .text-right {
+        text-align: left
+    }
+    .user-login-5 .login-container > .login-content .registration-button {
+        margin: 0 5px;
+    }
+    .user-login-5 .login-container > .login-content .login-form .row:last-child {
+        margin-top: 15px;
+    }
+    .user-login-5 .login-container > .login-content .login-form .row:last-child div:first-child {
+        display: block;
+    }
+    .user-login-5 .login-container > .login-content .login-form .row:nth-child(2) div:last-child {
+        display: none;
+    }
+    #tab2 .col-md-6 .has-error .help-block-error,
+    #tab3 .col-md-6 .has-error .help-block-error {
+        text-align: left;
+        font-size: 14px;
+    }
+}
+@media (max-width: 544px) {
+    .user-login-5 .login-container > .login-content,
+    .user-login-5 .login-container > .login-content .login-form,
+    .user-login-5 .login-container > .login-content .login-form .row:last-child
+     {
+        margin-top: 0
+    }
+    .user-login-5 .login-container > .login-content p {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .user-login-5 .login-container > .login-content button {
+        margin-top: 10px;
+    }
+    .user-login-5 .login-container > .login-content button#back-btn-expReg {
+        margin-top: 0;
+    }
+    .express-registration .form-actions .row>.col-md-12 {
+        margin-bottom: 20px;
+    }
+    .user-login-5 .login-container > .login-footer .login-copyright {
+        padding-left: 40px;
+        text-align: left;
+    }
+    .user-login-5 .login-container > .login-content .login-form .row:last-child div:first-child button {
+        margin-top: 0
+    }
+    .role-registration {
+        float: none;
+        margin-right: 0;
+    }
+    .role-registration--choice {
+        padding: 20px 0;
+        margin-right: 0;
+        float: none;
+    }
+    #tab1 .md-radio-inline {
+        text-align: center;
+    }
+    .user-login-5 .login-container > .login-content.normal-registration .col-md-12 {
+        margin-top: 0;
+        margin-bottom: 35px;
+    }
+    /*#tab4 {*/
+            /*margin-bottom: 715px;*/
+     /*}*/
+    .user-login-5 .login-container > .login-content.normal-registration {
+        padding: 0;
+    }
+    .form-wizard .steps>li>a.step>.number {
+        padding: 6px 11px 13px;
+        margin-right: 10px;
+        height: 30px;
+        width: 30px;
+        font-size: 13px;
+    }
+    .form-wizard .steps>li>a.step>.desc {
+        font-size: 13px;
+    }
+    .form-wizard .steps {
+        padding: 10px 0;
+        margin-bottom: 15px;
+    }
+    .form-wizard .steps.nav>li>a {
+        padding: 10px 0;
+    }
+    #form_wizard_1.portlet.light {
+        padding: 12px 0 15px;
+    }
+    #tab3 > .form-group {
+        margin: 0;
+    }
+    #tab1  .role-registration {
+        margin-right: 0;
+    }
+    #tab4 > .row {
+        text-align: center;
+    }
+    #tab4 > .row > .form-group {
+         margin-left: 0;
+         margin-right: 0;
+    }
+    #tab6 > .form-group last > div > div:nth-child(2) {
+        margin-bottom: 15px;
+    }
+    #wp_rar_user_role-error {
+        position: absolute;
+        /*bottom: 150%;*/
+        display: inline-block;
+        top: 236%;
+        left: 0;
+        /*width: 146%;*/
+    }
+    .user-login-5 .login-container > .login-content.express-registration {
+        margin-bottom: 0;
+    }
+    .user-login-5 .login-container > .login-footer {
+        position: static;
+        margin-top: 20px;
+    }
+
+}
+@media (max-width: 320px) {
+    .user-login-5 .login-container > .login-content {
+        padding: 0 20px;
+    }
+    .user-login-5 .login-logo.login-6 {
+        top: 20px;
+        left: 20px;
+        margin: 0 0 20px;
+    }
+    .user-login-5 .login-logo.login-6 img {
+        width: 50%;
+    }
+    .user-login-5 .login-container > .login-content > h1 {
+        font-size: 20px;
+    }
+    .user-login-5 .login-container > .login-content p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .user-login-5 .login-container > .login-content .forget-form + .row {
+        /*margin: 0*/
+    }
+    .user-login-5 .login-container > .login-footer .login-copyright {
+        padding-left: 20px;
+    }
+    .user-login-5 .login-container > .login-footer .login-social {
+        padding-left: 20px
+    }
+    .form-header-image,
+    .form-profile-image {
+        margin-left: 0!important;
+        margin-right: 0!important;
+        text-align: center;
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #tab4 {
+        text-align: center;
+    }
+    .user-login-5 .login-container > .login-footer > div {
+        display: block;
+    }
+
+}

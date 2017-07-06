@@ -1,0 +1,24 @@
+advertiser
+ - id
+ - username
+ - password_hash
+ - login_token
+ - score_remaining
+
+advertiser_ad
+ - id
+ - advertiser_id
+ - type_media_format_id
+ - country_filter_excludes
+ - media_url
+PS:
+ - if [country_filter_excludes] is true, all countries except the ones in [advertiser_ad_country_filter_list] will be allowed ("all but xyz")
+ - if [country_filter_excludes] is false, only the countries in [advertiser_ad_country_filter_list] will be allowed ("only xyz")
+
+advertiser_ad_country_filter_list
+ - advertiser_ad_id
+ - country_code
+
+advertiser_ad_developer_games
+ - advertiser_ad_id
+ - developer_game_id

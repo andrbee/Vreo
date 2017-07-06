@@ -1,0 +1,29 @@
+
+
+
+
+Note that this project is an example, it shouldn't be used in production. 
+Reasons:
+ - Many errors aren't caught and are just shown to the user, without the rest of the page rendered. 
+ - The code and layout is not inheritable, which makes this project hard to maintain. 
+ - The database code is all over the place, making changes to the database will not be easy to reflect upon the code. 
+ - The project has no localization support, all texts are hardcoded. 
+Instead, create a project in a framework (like Symfony2 for example) and copy paste pieces from this project into that. 
+This project uses no libraries which makes it easier to convert this project to a framework, or even to a different language.
+This project has been developed using PHP 7.0.8 and tested using PHP 5.4.45. 
+
+
+The /api/ folder contains the back-end, the /app/ folder contains the front-end. 
+
+
+The database can be created by executing "_database_.sql". 
+If you want to include the testing data, execute "_database_with_test_data_.sql" instead. 
+The testing data, as well as the 'empty' data, both contain an admin account with the username "admin" and password "admin". 
+The testing data also contains another admin account, as well as an advertiser and a developer account, for each the username is "test" and the password is " " (a single space). 
+
+
+You will have to execute /api/admin/truncate_logged_ips.php once every day. 
+You probably want to secure the /api/admin/ directory as well, by for example only allowing "localhost" / "127.0.0.1" / "::1". 
+
+
+

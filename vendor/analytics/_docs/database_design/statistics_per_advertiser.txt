@@ -1,0 +1,55 @@
+advertiser_statistics_logged_ips
+ - advertiser_id
+ - ip
+
+advertiser_statistics
+ - advertiser_id
+ - unique_hits
+ - unique_views
+ - unique_hears
+ - total_hits
+ - total_views
+ - total_hears
+ - total_hit_time
+ - total_view_time
+ - total_hear_time
+ - total_score
+ - total_screen_percentage
+ - total_screen_position_x
+ - total_screen_position_y
+ - total_blocked_percentage
+ - total_volume_percent
+ - unique_hits_platform_windows
+ - unique_hits_platform_mac
+ - unique_hits_platform_linux
+ - unique_hits_platform_android
+ - unique_hits_platform_ios
+ - unique_hits_platform_xboxone
+ - unique_hits_platform_ps4
+ - unique_hits_platform_web
+ - unique_hits_vr
+ - total_hits_platform_windows
+ - total_hits_platform_mac
+ - total_hits_platform_linux
+ - total_hits_platform_android
+ - total_hits_platform_ios
+ - total_hits_platform_xboxone
+ - total_hits_platform_ps4
+ - total_hits_platform_web
+ - total_hits_vr
+PS:
+ - [average_score] is calculated by dividing [total_score] by [unique_hits] or [total_hits]
+ - [average_view_time] is calculated by dividing [total_view_time] by [unique_views] or [total_views]
+ - [average_hear_time] is calculated by dividing [total_hear_time] by [unique_hears] or [total_hears]
+ - [average_screen_percentage] is calculated by dividing [total_screen_percentage] by [total_view_time]
+ - [average_screen_position_x] is calculated by dividing [total_screen_position_x] by [total_view_time]
+ - [average_screen_position_y] is calculated by dividing [total_screen_position_y] by [total_view_time]
+ - [average_blocked_percentage] is calculated by dividing [total_blocked_percentage] by [total_view_time]
+ - [average_volume_percent] is calculated by dividing [total_volume_percent] by [total_hear_time]
+
+advertiser_statistics_per_country
+ - advertiser_id
+ - country_code
+ - total_hits
+ - total_views
+ - total_hears
